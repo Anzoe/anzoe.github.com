@@ -166,7 +166,7 @@
                     "Children": [
                       {
                         "FontSize": 18,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 50",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -200,17 +200,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.125,
+                          "X": 0.175,
                           "Y": 0.525
                         },
-                        "LeftMargin": 86.3631,
-                        "RightMargin": 88.6369,
+                        "LeftMargin": 81.3631,
+                        "RightMargin": 83.6369,
                         "TopMargin": 10.1348,
                         "BottomMargin": 8.8652,
                         "Tag": 13,
                         "ActionTag": 1880981356,
                         "Size": {
-                          "X": 25.0,
+                          "X": 35.0,
                           "Y": 21.0
                         },
                         "Name": "Text_1",
@@ -218,7 +218,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "1",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -253,17 +253,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 14,
                         "ActionTag": 1426949368,
                         "Size": {
-                          "X": 22.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -346,7 +346,7 @@
                     "Children": [
                       {
                         "FontSize": 18,
-                        "LabelText": "+ 50",
+                        "LabelText": "+ 110",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -380,17 +380,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.175,
+                          "X": 0.22,
                           "Y": 0.525
                         },
-                        "LeftMargin": 81.3631,
-                        "RightMargin": 83.6369,
+                        "LeftMargin": 76.8631,
+                        "RightMargin": 79.1369,
                         "TopMargin": 10.1348,
                         "BottomMargin": 8.8652,
                         "Tag": 16,
                         "ActionTag": 1817988633,
                         "Size": {
-                          "X": 35.0,
+                          "X": 44.0,
                           "Y": 21.0
                         },
                         "Name": "Text_1",
@@ -398,7 +398,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "1",
+                        "LabelText": "2",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -527,7 +527,7 @@
                     "Children": [
                       {
                         "FontSize": 18,
-                        "LabelText": "+ 110",
+                        "LabelText": "+ 170",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -561,17 +561,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.22,
+                          "X": 0.225,
                           "Y": 0.525
                         },
-                        "LeftMargin": 76.8631,
-                        "RightMargin": 79.1369,
+                        "LeftMargin": 76.3631,
+                        "RightMargin": 78.6369,
                         "TopMargin": 10.1348,
                         "BottomMargin": 8.8652,
                         "Tag": 19,
                         "ActionTag": -1286573668,
                         "Size": {
-                          "X": 44.0,
+                          "X": 45.0,
                           "Y": 21.0
                         },
                         "Name": "Text_1",
@@ -579,7 +579,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "170",
+                        "LabelText": "3",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -614,17 +614,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.13,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 135.7936,
-                        "RightMargin": 38.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 20,
                         "ActionTag": -2111008020,
                         "Size": {
-                          "X": 26.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -760,7 +760,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "240",
+                        "LabelText": "4",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -795,17 +795,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.13,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 135.7936,
-                        "RightMargin": 38.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 23,
                         "ActionTag": 1090382782,
                         "Size": {
-                          "X": 26.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -889,7 +889,7 @@
                     "Children": [
                       {
                         "FontSize": 18,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 310",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -923,17 +923,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.125,
+                          "X": 0.225,
                           "Y": 0.525
                         },
-                        "LeftMargin": 86.3631,
-                        "RightMargin": 88.6369,
+                        "LeftMargin": 76.3631,
+                        "RightMargin": 78.6369,
                         "TopMargin": 10.1348,
                         "BottomMargin": 8.8652,
                         "Tag": 25,
                         "ActionTag": -350751330,
                         "Size": {
-                          "X": 25.0,
+                          "X": 45.0,
                           "Y": 21.0
                         },
                         "Name": "Text_1",
@@ -941,7 +941,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "5",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -976,17 +976,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 26,
                         "ActionTag": -887959546,
                         "Size": {
-                          "X": 22.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1070,7 +1070,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 400",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1104,17 +1104,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.25,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 73.8631,
+                        "RightMargin": 76.1369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 28,
                         "ActionTag": 1830424844,
                         "Size": {
-                          "X": 28.0,
+                          "X": 50.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -1122,7 +1122,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "6",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1157,17 +1157,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 29,
                         "ActionTag": -695519824,
                         "Size": {
-                          "X": 22.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1251,7 +1251,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 570",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1285,17 +1285,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.25,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 73.8631,
+                        "RightMargin": 76.1369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 31,
                         "ActionTag": -376441195,
                         "Size": {
-                          "X": 28.0,
+                          "X": 50.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -1303,7 +1303,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "8",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1338,17 +1338,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.04,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 144.7936,
+                        "RightMargin": 47.2064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 32,
                         "ActionTag": -599229510,
                         "Size": {
-                          "X": 22.0,
+                          "X": 8.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1432,7 +1432,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 770",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1466,17 +1466,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.25,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 73.8631,
+                        "RightMargin": 76.1369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 34,
                         "ActionTag": -743768442,
                         "Size": {
-                          "X": 28.0,
+                          "X": 50.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -1484,7 +1484,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "10",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1519,17 +1519,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.085,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 140.2936,
+                        "RightMargin": 42.7064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 35,
                         "ActionTag": 833918575,
                         "Size": {
-                          "X": 22.0,
+                          "X": 17.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1613,7 +1613,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 1000",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1647,17 +1647,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.305,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 68.3631,
+                        "RightMargin": 70.6369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 37,
                         "ActionTag": 920344311,
                         "Size": {
-                          "X": 28.0,
+                          "X": 61.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -1665,7 +1665,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "12",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1700,17 +1700,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.085,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 140.2936,
+                        "RightMargin": 42.7064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 38,
                         "ActionTag": 1448372647,
                         "Size": {
-                          "X": 22.0,
+                          "X": 17.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1794,7 +1794,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 1360",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1828,17 +1828,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.305,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 68.3631,
+                        "RightMargin": 70.6369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 40,
                         "ActionTag": 10075381,
                         "Size": {
-                          "X": 28.0,
+                          "X": 61.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -1846,7 +1846,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "15",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -1881,17 +1881,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.085,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 140.2936,
+                        "RightMargin": 42.7064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 41,
                         "ActionTag": -1572375807,
                         "Size": {
-                          "X": 22.0,
+                          "X": 17.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -1975,7 +1975,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 2500",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2009,17 +2009,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.305,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 68.3631,
+                        "RightMargin": 70.6369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 43,
                         "ActionTag": -992652750,
                         "Size": {
-                          "X": 28.0,
+                          "X": 61.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -2027,7 +2027,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "20",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2062,17 +2062,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.085,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 140.2936,
+                        "RightMargin": 42.7064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 44,
                         "ActionTag": 2076721223,
                         "Size": {
-                          "X": 22.0,
+                          "X": 17.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,
@@ -2155,7 +2155,7 @@
                     "Children": [
                       {
                         "FontSize": 20,
-                        "LabelText": "+ 4",
+                        "LabelText": "+ 5000",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2189,17 +2189,17 @@
                           "Y": 0.4841
                         },
                         "PreSize": {
-                          "X": 0.14,
+                          "X": 0.305,
                           "Y": 0.575
                         },
-                        "LeftMargin": 84.8631,
-                        "RightMargin": 87.1369,
+                        "LeftMargin": 68.3631,
+                        "RightMargin": 70.6369,
                         "TopMargin": 9.1348,
                         "BottomMargin": 7.8652,
                         "Tag": 46,
                         "ActionTag": -1240160211,
                         "Size": {
-                          "X": 28.0,
+                          "X": 61.0,
                           "Y": 23.0
                         },
                         "Name": "Text_1",
@@ -2207,7 +2207,7 @@
                       },
                       {
                         "FontSize": 16,
-                        "LabelText": "0.1",
+                        "LabelText": "30",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2242,17 +2242,17 @@
                           "Y": 0.4699
                         },
                         "PreSize": {
-                          "X": 0.11,
+                          "X": 0.085,
                           "Y": 0.45
                         },
-                        "LeftMargin": 137.7936,
-                        "RightMargin": 40.2064,
+                        "LeftMargin": 140.2936,
+                        "RightMargin": 42.7064,
                         "TopMargin": 12.2034,
                         "BottomMargin": 9.7966,
                         "Tag": 47,
                         "ActionTag": 791321388,
                         "Size": {
-                          "X": 22.0,
+                          "X": 17.0,
                           "Y": 18.0
                         },
                         "Alpha": 77,

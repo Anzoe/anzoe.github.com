@@ -262,6 +262,7 @@
                 <file name="src/GameOverLayer.js"/>
                 <file name="src/GameData.js"/>
                 <file name="src/GameLayer.js"/>
+                <file name="src/HelpLayer.js"/>
                 <file name="src/EasyPack/ActionPack.js"/>
                 <file name="src/EasyPack/GlobalPack.js"/>
                 <file name="main.js"/>
