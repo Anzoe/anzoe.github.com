@@ -1,0 +1,315 @@
+{
+  "ID": "7158254d-6e0c-4042-b9cb-8bd399a92469",
+  "Version": "2.3.2.3",
+  "Name": "shopNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shopRes/bg_shop.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.3086,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -237.3086,
+            "RightMargin": -232.6914,
+            "TopMargin": -230.0,
+            "BottomMargin": -230.0,
+            "Tag": 5,
+            "Children": [
+              {
+                "ItemMargin": 10,
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 32.2664,
+                  "Y": 31.9042
+                },
+                "Scale": {
+                  "ScaleX": 2.0331,
+                  "ScaleY": 1.531
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0687,
+                  "Y": 0.0694
+                },
+                "PreSize": {
+                  "X": 0.4255,
+                  "Y": 0.4348
+                },
+                "LeftMargin": 32.2664,
+                "RightMargin": 237.7336,
+                "TopMargin": 228.0958,
+                "BottomMargin": 31.9042,
+                "Tag": 4,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "shopRes/cell_shop2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "shopRes/cell_shop.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 370,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 180.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2
+                    },
+                    "BottomMargin": 160.0,
+                    "Tag": 6,
+                    "Children": [
+                      {
+                        "FontSize": 22,
+                        "LabelText": "+ 4",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 98.8631,
+                          "Y": 19.3652
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.2821
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4943,
+                          "Y": 0.4841
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 83.3631,
+                        "RightMargin": 85.6369,
+                        "TopMargin": 7.6348,
+                        "BottomMargin": 6.3652,
+                        "Tag": 7,
+                        "ActionTag": -586186839,
+                        "Size": {
+                          "X": 31.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "0.1",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 148.7936,
+                          "Y": 18.7966
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.2821
+                        },
+                        "CColor": {
+                          "R": 191,
+                          "G": 191,
+                          "B": 191
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.744,
+                          "Y": 0.4699
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 136.2936,
+                        "RightMargin": 38.7064,
+                        "TopMargin": 10.7034,
+                        "BottomMargin": 8.2966,
+                        "Tag": 8,
+                        "ActionTag": 1969638583,
+                        "Size": {
+                          "X": 25.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_1_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 2067668115,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Button_1",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -324141322,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": -2069822207,
+            "Size": {
+              "X": 470.0,
+              "Y": 460.0
+            },
+            "Name": "bg_shop_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Disable.png",
+        "bg_shop.png",
+        "cell_shop.png",
+        "cell_shop2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}
